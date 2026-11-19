@@ -1,0 +1,4 @@
+UCI Bank Marketing Dataset (dataset ID 222)
+https://archive.ics.uci.edu/dataset/222/bank+marketing
+
+Download bank-full.csv and place it in the repository root before running the Python script.
